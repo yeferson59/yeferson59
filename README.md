@@ -1,29 +1,40 @@
-<h1 align="center">Hi there! 👋 I'm Yeferson</h1>
+<h1 align="center">ナルト Yeferson うずまき</h1>
 
 <p align="center">
-🚀 Full-stack developer | Next.js | Astro | NestJS | Express | Java | Tailwind | Docker | Git
+🚀 Full-stack Developer | Next.js | Astro | NestJS | Express | Java | Tailwind | Docker | Git  
+📚 Computer Engineering Student | AI Enthusiast | Finance & Global Economy Fan  
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- Passionate about building scalable and efficient applications.  
-- Experienced in both frontend and backend development.  
-- Always learning new technologies and improving my skills.  
-- Love working with modern web frameworks and cloud infrastructure.  
+### 👨‍🎓 About Me  
+🎓 I'm currently pursuing a **Computer Engineering degree** at the **University of Pamplona, Colombia**.  
+🧠 Passionate about **Artificial Intelligence**, Machine Learning, and emerging technologies.  
+💰 Deeply interested in **finance, global economy**, and how technology is shaping the financial world.  
+💻 I love **coding**, learning new technologies, and building scalable applications.  
+🍥 **Naruto fan** – "Hard work is worthless for those that don’t believe in themselves!" 🌀  
 
 ---
 
 ### 🛠️ Tech Stack  
-💻 **Languages & Frameworks:**  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)  
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)  
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+
+#### 🚀 Most Used & Favorite Tech  
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+#### 💻 Other Technologies  
+<p align="center">
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -36,21 +47,18 @@
 ---
 
 ### 🌍 Connect with me  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@yefersont59)  
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/) --> 
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox&logoColor=white)](https://tu-portafolio.com) -->
+<p align="center">
+  <a href="https://twitter.com/tu_usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu_usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tu-portafolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+</p>
 
-<!--
-**yeferson59/yeferson59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 "A person grows up when he has to take responsibility for something other than himself." – **Itachi Uchiha**  
