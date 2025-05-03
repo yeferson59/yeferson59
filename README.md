@@ -48,7 +48,8 @@
 
 ---
 
-### 🌍 Connect with me  
+### 🌍 Connect with me
+> **Note:** My portfolio website is under construction.
 <p align="center">
   <a href="https://twitter.com/yefersont59">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -60,7 +61,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
   <a href="https://tecnofinanzas.netlify.app">
-    <img src="https://img.shields.io/badge/Blogz-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-43A047?style=for-the-badge&logo=Hashnode&logoColor=white" />
   </a>
 </p>
 
