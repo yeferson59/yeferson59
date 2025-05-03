@@ -1,4 +1,5 @@
-<h1 align="center">ナルト Yeferson うずまき</h1>
+<h1 align="center">Yeferson "ナルト うずまき"</h1>
+<p align="center">Full-stack Developer & Computer Engineering Student</p>
 
 <p align="center">
 🚀 Full-stack Developer | Next.js | Astro | NestJS | Express | Java | Tailwind | Docker | Git  
@@ -7,12 +8,13 @@
 
 ---
 
-### 👨‍🎓 About Me  
-🎓 I'm currently in my **6th semester** of **Computer Engineering** at the **University of Pamplona, Colombia**.  
-🧠 Passionate about **Artificial Intelligence**, Machine Learning, and emerging technologies.  
-💰 Deeply interested in **finance, global economy**, and how technology is shaping the financial world.  
-💻 I love **coding**, learning new technologies, and building scalable applications.  
-🍥 **Naruto fan** – "Hard work is worthless for those that don’t believe in themselves!" 🌀  
+### 👨‍🎓 About Me
+
+- 🎓 6th semester **Computer Engineering** student at **University of Pamplona, Colombia**  
+- 🧠 Passionate about **AI**, **Machine Learning**, and emerging technologies  
+- 💹 Enthusiast of **finance**, **global economy**, and tech’s role in transforming both  
+- 💻 Always learning, building, and experimenting with **scalable full-stack apps**  
+- 🍥 Anime lover – *"Hard work is worthless for those that don’t believe in themselves!"*
 
 ---
 
@@ -46,23 +48,29 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yeferson59&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeferson59&theme=dark" />
 </p>
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=yeferson59&theme=dracula" />
+</p>
 
 ---
 
-### 🌍 Connect with me
-> **Note:** My portfolio website is under construction.
+### 🌍 Connect with Me
+
 <p align="center">
-  <a href="https://twitter.com/yefersont59">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yeferson59">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yeferson-toloza-42a6a7279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-fbpe8t93co.155.133.22.54.sslip.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://tecnofinanzas.netlify.app">
-    <img src="https://img.shields.io/badge/Blog-FF91AF?style=for-the-badge&logo=Hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-43A047?style=for-the-badge&logo=Hashnode&logoColor=white" />
   </a>
 </p>
 
