@@ -56,8 +56,11 @@
   <a href="https://linkedin.com/in/yeferson-toloza-42a6a7279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tu-portafolio.com">
+  <a href="https://portfolio-fbpe8t93co.155.133.22.54.sslip.io">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+  <a href="https://tecnofinanzas.netlify.app">
+    <img src="https://img.shields.io/badge/Blogz-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
 </p>
 
