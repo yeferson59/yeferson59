@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -61,7 +62,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
   <a href="https://tecnofinanzas.netlify.app">
-    <img src="https://img.shields.io/badge/Blog-43A047?style=for-the-badge&logo=Hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-FF91AF?style=for-the-badge&logo=Hashnode&logoColor=white" />
   </a>
 </p>
 
