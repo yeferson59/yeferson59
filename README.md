@@ -57,7 +57,7 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:yefersontoloza59@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/yeferson59">
@@ -76,4 +76,5 @@
 
 ---
 
-🔥 "A person grows up when he has to take responsibility for something other than himself." – **Itachi Uchiha**  
+> *"A person grows up when he has to take responsibility for something other than himself."*  
+> — **Itachi Uchiha**
