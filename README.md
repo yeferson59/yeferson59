@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 6th semester **Computer Engineering** student at **University of Pamplona, Colombia**  
+- 🎓 7th semester **Computer Engineering** student at **University of Pamplona, Colombia**  
 - 🧠 Passionate about **AI**, **Machine Learning**, and emerging technologies  
 - 💹 Enthusiast of **finance**, **global economy**, and tech’s role in transforming both  
 - 💻 Always learning, building, and experimenting with **scalable full-stack apps**  
