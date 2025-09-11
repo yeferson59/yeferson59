@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Full-stack Developer | Next.js | Astro | NestJS | Express | Java | Tailwind | Docker | Git  
-📚 Computer Engineering Student (6th Semester) | AI Enthusiast | Finance & Global Economy Fan  
+📚 Computer Engineering Student (7th Semester) | AI Enthusiast | Finance & Global Economy Fan  
 </p>
 
 ---
