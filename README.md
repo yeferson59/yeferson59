@@ -11,7 +11,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 7th semester **Computer Engineering** student at **University of Pamplona, Colombia**  
+- 🎓 8th semester **Computer Engineering** student at **University of Pamplona, Colombia**  
 - 💻 **Full-Stack Developer** with expertise in modern web technologies and scalable backend systems  
 - 🏗️ **Systems Architect** experienced in microservices, Docker orchestration, and distributed systems  
 - 🤖 **AI Enthusiast** working with Gemini API integrations and machine learning projects  
