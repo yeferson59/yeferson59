@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Full-Stack Developer | Node.js | TypeScript | Go | Next.js | Astro | PostgreSQL | Docker | AI Enthusiast  
-🎓 Computer Engineering Student (7th Semester) | University of Pamplona, Colombia  
+🎓 Computer Engineering Student (8th Semester) | University of Pamplona, Colombia  
 💡 50+ Public Repositories | Microservices | E-commerce | AI Integrations | DevOps  
 </p>
 
