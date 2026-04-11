@@ -39,8 +39,8 @@ When I'm not coding, I'm probably watching anime, cooking, or thinking about how
 
 | Project | Description | Stack |
 |---|---|---|
-| E-commerce Platform | Full backend with JWT auth, Redis caching, Docker orchestration | NestJS · PostgreSQL · Redis |
-| Microservices Marketplace | Distributed system with gRPC communication | Go · Fiber · Docker |
+| E-commerce Platform | Full backend with JWT auth, Redis caching, Docker orchestration | Golang/Fiber · PostgreSQL · Redis |
+| Microservices Marketplace | Distributed system with gRPC communication | TypeScript · Nestjs · Docker |
 | AI Chatbot | NLP integration for a crochet store | Python · FastAPI |
 | Fintech Blog | Personal blog on tech and finance | Astro |
 
@@ -50,8 +50,7 @@ When I'm not coding, I'm probably watching anime, cooking, or thinking about how
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeferson59&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeferson59&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=yeferson59&theme=github-compact&hide_border=true&area=true)
 
 ---
 
