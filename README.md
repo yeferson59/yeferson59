@@ -39,9 +39,9 @@ When I'm not coding, I'm probably watching anime, cooking, or thinking about how
 
 | Project | Description | Stack |
 |---|---|---|
-| E-commerce Platform | Full backend with JWT auth, Redis caching, Docker orchestration | Golang/Fiber · PostgreSQL · Redis |
+| E-commerce Platform | Full backend with JWT auth, Redis caching, Docker orchestration | TypeScript - Astro - Golang/Fiber · PostgreSQL · Redis |
 | Microservices Marketplace | Distributed system with gRPC communication | TypeScript · Nestjs · Docker |
-| AI Chatbot | NLP integration for a crochet store | Python · FastAPI |
+| FinWise | Finance App with AI implementatio | TypeScript - React Native/Expo - Python · FastAPI |
 | Fintech Blog | Personal blog on tech and finance | Astro |
 
 *Browse all 50+ repositories below ↓*
