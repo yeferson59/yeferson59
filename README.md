@@ -52,20 +52,11 @@ When I'm not coding, I'm probably watching anime, cooking, or thinking about how
 
 ![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=yeferson59&theme=github-compact&hide_border=true&area=true)
 
-<div align="center" style="margin-top: 20px;">
-  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
-    <tr valign="top">
-      <td>
-        <img
-          height="200px"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeferson59&theme=radical"
-          alt="Most Used Languages"
-          style="border-radius: 10px; margin-top:-4px;"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+![yeferson59's Stats](https://github-readme-stats.vercel.app/api?username=yeferson59&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![yeferson59's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeferson59&theme=tokyonight&hide_border=true)
+
+![yeferson59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeferson59&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
