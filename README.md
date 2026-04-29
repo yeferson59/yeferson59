@@ -51,11 +51,8 @@ When I'm not coding, I'm probably watching anime, cooking, or thinking about how
 ## Stats
 
 ![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=yeferson59&theme=github-compact&hide_border=true&area=true)
-
 ![yeferson59's Stats](https://github-readme-stats.vercel.app/api?username=yeferson59&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![yeferson59's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeferson59&theme=tokyonight&hide_border=true)
-
 ![yeferson59's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeferson59&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
